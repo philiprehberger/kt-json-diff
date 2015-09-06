@@ -2,12 +2,9 @@
 
 [![CI](https://github.com/philiprehberger/kt-json-diff/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/kt-json-diff/actions/workflows/publish.yml)
 [![Maven Central](https://img.shields.io/maven-central/v/com.philiprehberger/json-diff)](https://central.sonatype.com/artifact/com.philiprehberger/json-diff)
+[![License](https://img.shields.io/github/license/philiprehberger/kt-json-diff)](LICENSE)
 
 Structural diffs between JSON documents with path-based change tracking.
-
-## Requirements
-
-- Kotlin 1.9+ / Java 17+
 
 ## Installation
 
@@ -15,7 +12,7 @@ Structural diffs between JSON documents with path-based change tracking.
 
 ```kotlin
 dependencies {
-    implementation("com.philiprehberger:json-diff:0.1.0")
+    implementation("com.philiprehberger:json-diff:0.1.2")
 }
 ```
 
@@ -25,7 +22,7 @@ dependencies {
 <dependency>
     <groupId>com.philiprehberger</groupId>
     <artifactId>json-diff</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.2</version>
 </dependency>
 ```
 
