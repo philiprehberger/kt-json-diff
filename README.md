@@ -12,7 +12,7 @@ Structural diffs between JSON documents with path-based change tracking.
 
 ```kotlin
 dependencies {
-    implementation("com.philiprehberger:json-diff:0.1.2")
+    implementation("com.philiprehberger:json-diff:0.1.3")
 }
 ```
 
@@ -22,7 +22,7 @@ dependencies {
 <dependency>
     <groupId>com.philiprehberger</groupId>
     <artifactId>json-diff</artifactId>
-    <version>0.1.2</version>
+    <version>0.1.3</version>
 </dependency>
 ```
 
