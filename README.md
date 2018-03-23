@@ -1,9 +1,8 @@
 # json-diff
 
 [![Tests](https://github.com/philiprehberger/kt-json-diff/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/kt-json-diff/actions/workflows/publish.yml)
-[![Maven Central](https://img.shields.io/maven-central/v/com.philiprehberger/json-diff)](https://central.sonatype.com/artifact/com.philiprehberger/json-diff)
-[![License](https://img.shields.io/github/license/philiprehberger/kt-json-diff)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![Maven Central](https://img.shields.io/maven-central/v/com.philiprehberger/json-diff.svg)](https://central.sonatype.com/artifact/com.philiprehberger/json-diff)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/kt-json-diff)](https://github.com/philiprehberger/kt-json-diff/commits/main)
 
 Structural diffs between JSON documents with path-based change tracking.
 
@@ -56,6 +55,24 @@ diff.added()    // [Change(ADDED, "$.email", null, "a@b.com")]
 ./gradlew build
 ```
 
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/kt-json-diff)
+
+🐛 [Report issues](https://github.com/philiprehberger/kt-json-diff/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/kt-json-diff/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
+
 ## License
 
-MIT
+[MIT](LICENSE)
