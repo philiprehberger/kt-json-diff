@@ -1,6 +1,6 @@
 # json-diff
 
-[![CI](https://github.com/philiprehberger/kt-json-diff/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/kt-json-diff/actions/workflows/publish.yml)
+[![Tests](https://github.com/philiprehberger/kt-json-diff/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/kt-json-diff/actions/workflows/publish.yml)
 [![Maven Central](https://img.shields.io/maven-central/v/com.philiprehberger/json-diff)](https://central.sonatype.com/artifact/com.philiprehberger/json-diff)
 [![License](https://img.shields.io/github/license/philiprehberger/kt-json-diff)](LICENSE)
 
@@ -11,9 +11,7 @@ Structural diffs between JSON documents with path-based change tracking.
 ### Gradle (Kotlin DSL)
 
 ```kotlin
-dependencies {
-    implementation("com.philiprehberger:json-diff:0.1.3")
-}
+implementation("com.philiprehberger:json-diff:0.1.4")
 ```
 
 ### Maven
@@ -22,7 +20,7 @@ dependencies {
 <dependency>
     <groupId>com.philiprehberger</groupId>
     <artifactId>json-diff</artifactId>
-    <version>0.1.3</version>
+    <version>0.1.4</version>
 </dependency>
 ```
 
